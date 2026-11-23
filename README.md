@@ -76,6 +76,19 @@ Live on Google Play under [Meeru Games](https://play.google.com/store/apps/dev?i
 
 ---
 
+## 🤖 Robotics & Rehabilitation Gaming
+
+At **ARTICARES Pvt Ltd** (NSTP, NUST Islamabad, 2024–2026) I built gameplay for interactive robotic rehabilitation systems that make physical therapy engaging while supporting structured motor recovery.
+
+| System | Focus |
+|---|---|
+| **HMan** | Robotic gaming system targeting the muscles of the arms and hands |
+| **RHB** | Wrist rehabilitation: improving hand rotation and mobility |
+
+**Therapy areas covered:** agility · cognition · coordination · pronation · supination · proprioception, designed to improve motor skills, functional movement and sensory-motor integration.
+
+---
+
 ## 🏆 Awards
 - 🥇 HUAWEI APPS UP, Best Game of Asia, 2021
 - 🥇 HUAWEI APPS UP, Best Game of Asia, 2020
