@@ -8,7 +8,6 @@ I build cross-platform games and immersive experiences, with 9+ years in Unity a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshan--pervaiz-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-pervaiz-54668b101)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zeeshanportfolio-111?logo=googlechrome&logoColor=white)](https://zeeshanportfolio.mystrikingly.com/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Meeru%20Games-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6310840177644487507)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobeacrobatreader&logoColor=white)](./Zeeshan_Pervaiz_Resume_2026.pdf)
 
 ---
 
